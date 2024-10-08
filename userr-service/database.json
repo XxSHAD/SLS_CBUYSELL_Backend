@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "driver": "pg",
+        "user": "user_service",
+        "password": "Bilalcr7",
+        "host": "user-service.cvkssq6qaa8u.us-east-1.rds.amazonaws.com",
+        "database": "user_service"
+    }
+}
